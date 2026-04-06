@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularios\Actor\AltaActor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Actor\ListaActor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Banco\listaBanco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Calificacion\ListadoCalificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Cliente\AltaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Cliente\ListadoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Combo\AltaCombo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Combo\ListaCombo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Distribuidora\ListadoDistribuidora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Empleado\AltaEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Empleado\ListadoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Estado\listaEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Formato\listaFormato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Funcion\AltaFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Funcion\ListaFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Genero\ListadoGenero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\MedioPago\AltaMedioPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\MedioPago\ListaMedioPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Origen\ListadoOrigen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\pelicula1\frmAltaPelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\pelicula1\frmListadoPelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Pelicula\AltaPelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Pelicula\ListaPelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Producto\AltaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Producto\ListaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ProgramacionSemanal\listaProgramacionSemanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Promocion\AltaPromocion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Promocion\ListaPromocion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Rol\ListadoRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Sala\listadoSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Tarifa\listaTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Tarjeta\AltaTarjeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Tarjeta\ListaTarjeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\TipoDocumento\ListadoTipoDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\TipoProducto\ListaTipoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Usuario\listadoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Formularios\Cliente\ListadoCliente.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Formularios\Empleado\ListadoEmpleado.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

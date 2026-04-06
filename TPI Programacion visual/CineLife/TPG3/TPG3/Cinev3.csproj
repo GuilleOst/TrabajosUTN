@@ -1,0 +1,121 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Formularios\Actor\**" />
+    <Compile Remove="Formularios\Banco\**" />
+    <Compile Remove="Formularios\Calificacion\**" />
+    <Compile Remove="Formularios\Combo\**" />
+    <Compile Remove="Formularios\Distribuidora\**" />
+    <Compile Remove="Formularios\Estado\**" />
+    <Compile Remove="Formularios\Formato\**" />
+    <Compile Remove="Formularios\Funcion\**" />
+    <Compile Remove="Formularios\Genero\**" />
+    <Compile Remove="Formularios\MedioPago\**" />
+    <Compile Remove="Formularios\Origen\**" />
+    <Compile Remove="Formularios\Pelicula\**" />
+    <Compile Remove="Formularios\Producto\**" />
+    <Compile Remove="Formularios\ProgramacionSemanal\**" />
+    <Compile Remove="Formularios\Promocion\**" />
+    <Compile Remove="Formularios\Rol\**" />
+    <Compile Remove="Formularios\Sala\**" />
+    <Compile Remove="Formularios\Tarifa\**" />
+    <Compile Remove="Formularios\Tarjeta\**" />
+    <Compile Remove="Formularios\TipoProducto\**" />
+    <EmbeddedResource Remove="Formularios\Actor\**" />
+    <EmbeddedResource Remove="Formularios\Banco\**" />
+    <EmbeddedResource Remove="Formularios\Calificacion\**" />
+    <EmbeddedResource Remove="Formularios\Combo\**" />
+    <EmbeddedResource Remove="Formularios\Distribuidora\**" />
+    <EmbeddedResource Remove="Formularios\Estado\**" />
+    <EmbeddedResource Remove="Formularios\Formato\**" />
+    <EmbeddedResource Remove="Formularios\Funcion\**" />
+    <EmbeddedResource Remove="Formularios\Genero\**" />
+    <EmbeddedResource Remove="Formularios\MedioPago\**" />
+    <EmbeddedResource Remove="Formularios\Origen\**" />
+    <EmbeddedResource Remove="Formularios\Pelicula\**" />
+    <EmbeddedResource Remove="Formularios\Producto\**" />
+    <EmbeddedResource Remove="Formularios\ProgramacionSemanal\**" />
+    <EmbeddedResource Remove="Formularios\Promocion\**" />
+    <EmbeddedResource Remove="Formularios\Rol\**" />
+    <EmbeddedResource Remove="Formularios\Sala\**" />
+    <EmbeddedResource Remove="Formularios\Tarifa\**" />
+    <EmbeddedResource Remove="Formularios\Tarjeta\**" />
+    <EmbeddedResource Remove="Formularios\TipoProducto\**" />
+    <None Remove="Formularios\Actor\**" />
+    <None Remove="Formularios\Banco\**" />
+    <None Remove="Formularios\Calificacion\**" />
+    <None Remove="Formularios\Combo\**" />
+    <None Remove="Formularios\Distribuidora\**" />
+    <None Remove="Formularios\Estado\**" />
+    <None Remove="Formularios\Formato\**" />
+    <None Remove="Formularios\Funcion\**" />
+    <None Remove="Formularios\Genero\**" />
+    <None Remove="Formularios\MedioPago\**" />
+    <None Remove="Formularios\Origen\**" />
+    <None Remove="Formularios\Pelicula\**" />
+    <None Remove="Formularios\Producto\**" />
+    <None Remove="Formularios\ProgramacionSemanal\**" />
+    <None Remove="Formularios\Promocion\**" />
+    <None Remove="Formularios\Rol\**" />
+    <None Remove="Formularios\Sala\**" />
+    <None Remove="Formularios\Tarifa\**" />
+    <None Remove="Formularios\Tarjeta\**" />
+    <None Remove="Formularios\TipoProducto\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entidades\Actor.cs" />
+    <Compile Remove="Entidades\AD_Producto.cs" />
+    <Compile Remove="Entidades\Banco.cs" />
+    <Compile Remove="Entidades\Calificacion.cs" />
+    <Compile Remove="Entidades\Combo.cs" />
+    <Compile Remove="Entidades\Distribuidora.cs" />
+    <Compile Remove="Entidades\Estado.cs" />
+    <Compile Remove="Entidades\Formato.cs" />
+    <Compile Remove="Entidades\Funcion.cs" />
+    <Compile Remove="Entidades\Genero.cs" />
+    <Compile Remove="Entidades\MedioPago.cs" />
+    <Compile Remove="Entidades\Origen.cs" />
+    <Compile Remove="Entidades\Pelicula.cs" />
+    <Compile Remove="Entidades\Producto.cs" />
+    <Compile Remove="Entidades\ProgramacionSemanal.cs" />
+    <Compile Remove="Entidades\Promocion.cs" />
+    <Compile Remove="Entidades\Rol.cs" />
+    <Compile Remove="Entidades\Sala.cs" />
+    <Compile Remove="Entidades\Tarifa.cs" />
+    <Compile Remove="Entidades\Tarjeta.cs" />
+    <Compile Remove="Entidades\TipoProducto.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
+</Project>

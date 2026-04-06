@@ -1,0 +1,155 @@
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.exe
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.deps.json
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.runtimeconfig.json
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.pdb
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.AssemblyReference.cache
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.GenerateResource.cache
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.AssemblyInfoInputs.cache
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.AssemblyInfo.cs
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.CoreCompileInputs.cache
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\refint\TPG3.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.pdb
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.genruntimeconfig.cache
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\ref\TPG3.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Main.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.dll.config
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.LogIn.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.CopyComplete
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Promocion.ListaPromocion.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Promocion.AltaPromocion.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.MedioPago.AltaMedioPago.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.MedioPago.ListaMedioPago.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Empleado.AltaEmpleado.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Empleado.ListadoEmpelado.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.TipoDocumento.ListadoTipoDocumento.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Actores.AltaActor.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Actores.ListaActor.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Combo.AltaCombo.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Combo.ListaCombo.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Producto.AltaProducto.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Producto.ListaProducto.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Properties.Resources.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Funcion.AltaFuncion.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Funcion.ListaFuncion.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Pelicula.AltaPelicula.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Pelicula.ListaPelicula.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Tarjeta.AltaTarjeta.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Tarjeta.ListaTarjeta.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Calificacion.ListadoCalificacion.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Distribuidora.ListadoDistribuidora.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Genero.ListadoGenero.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Origen.ListadoOrigen.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Rol.ListadoRol.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Formato.listaFormato.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.TipoProducto.ListaTipoProducto.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Tarifa.listaTarifa.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Sala.listadoSala.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.ProgramacionSemanal.listaProgramacionSemanal.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Estado.listaEstado.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Banco.listaBanco.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Usuario.listadoUsuario.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Cliente.AltaCliente.resources
+D:\GitProjects\TPPavGrupo3\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Cliente.ListadoCliente.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.exe
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.dll.config
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.deps.json
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.runtimeconfig.json
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.pdb
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.AssemblyReference.cache
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Actores.AltaActor.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Actores.ListaActor.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Banco.listaBanco.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Calificacion.ListadoCalificacion.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Cliente.AltaCliente.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Cliente.ListadoCliente.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Combo.AltaCombo.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Combo.ListaCombo.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Distribuidora.ListadoDistribuidora.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Empleado.AltaEmpleado.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Empleado.ListadoEmpelado.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Estado.listaEstado.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Formato.listaFormato.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Funcion.AltaFuncion.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Funcion.ListaFuncion.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Genero.ListadoGenero.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.MedioPago.AltaMedioPago.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.MedioPago.ListaMedioPago.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Origen.ListadoOrigen.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Pelicula.AltaPelicula.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Pelicula.ListaPelicula.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Producto.AltaProducto.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Producto.ListaProducto.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.ProgramacionSemanal.listaProgramacionSemanal.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Promocion.AltaPromocion.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Promocion.ListaPromocion.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Rol.ListadoRol.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Sala.listadoSala.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Tarifa.listaTarifa.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Tarjeta.AltaTarjeta.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Tarjeta.ListaTarjeta.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.TipoDocumento.ListadoTipoDocumento.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.TipoProducto.ListaTipoProducto.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Usuario.listadoUsuario.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.LogIn.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Main.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Properties.Resources.resources
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.GenerateResource.cache
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.AssemblyInfoInputs.cache
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.AssemblyInfo.cs
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.CopyComplete
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\refint\TPG3.dll
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.pdb
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.genruntimeconfig.cache
+C:\Users\tomas\Downloads\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPPavGrupo3-79996ea852e3b402a139b9e0a8c4fb1bc558fe63\TPG3\TPG3\obj\Debug\net6.0-windows\ref\TPG3.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.exe
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.dll.config
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.deps.json
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.runtimeconfig.json
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\TPG3.pdb
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Cliente.AltaCliente.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Cliente.ListadoCliente.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Empleado.AltaEmpleado.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Empleado.ListadoEmpelado.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.TipoDocumento.ListadoTipoDocumento.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Formularios.Usuario.listadoUsuario.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.LogIn.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Main.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.Properties.Resources.resources
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.AssemblyInfo.cs
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.csproj.CopyComplete
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\refint\TPG3.dll
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.pdb
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\TPG3.genruntimeconfig.cache
+C:\Users\tomas\Desktop\PAV1\test\TPG3 (2)\TPG3\TPG3\obj\Debug\net6.0-windows\ref\TPG3.dll
