@@ -1,3 +1,37 @@
+# 📞 TPI Diseño de Sistemas - Gestión de Respuesta de Operador
+
+## 📝 Descripción
+Este proyecto es la implementación práctica (Realización de Caso de Uso) de un sistema de gestión de llamadas, desarrollado bajo los lineamientos del Proceso Unificado de Desarrollo (PUD). 
+
+El objetivo principal del proyecto fue aplicar sólidos conceptos de Ingeniería de Software, transformando requerimientos de negocio en un modelo de análisis estructurado mediante Lenguaje Unificado de Modelado (UML), para luego construir una solución funcional utilizando patrones de diseño orientados a objetos.
+
+## 🚀 Tecnologías y Herramientas
+* **Lenguaje:** C#
+* **Framework:** .NET Framework (Windows Forms)
+* **Modelado y Diseño:** Lucidchart (UML)
+* **Metodología:** Proceso Unificado de Desarrollo (PUD)
+* **Arquitectura:** Diseño basado en Patrones (Controlador / Experto / Creador)
+
+## 📐 Modelado Arquitectónico (UML)
+El proyecto cuenta con una exhaustiva documentación visual de la arquitectura del software, incluyendo:
+* **Diagrama de Clases:** Estructuración de las entidades del dominio (Llamada, Cliente, Categorías) y clases de soporte (Gestor, Pantalla, Estados).
+* **Diagramas de Secuencia:** Modelado dinámico del flujo de mensajes para la validación de clientes y el registro de la respuesta del operador.
+* **Diagrama de Máquina de Estados:** Trazabilidad del ciclo de vida del objeto principal (`Llamada`), controlando transiciones estrictas (Iniciada -> En Curso -> Finalizada/Cancelada).
+
+## ✨ Funcionalidades Clave del Caso de Uso
+* **Gestión de Interfaz y Control:** Implementación del patrón *Boundary-Control-Entity* separando la lógica de la interfaz (`PantallaRespuestaOperador`) de la lógica de negocio (`GestorRespuestaOperador`).
+* **Seguimiento de Estados:** Lógica de transición de estados de las comunicaciones y registro de hitos temporales.
+* **Cálculo de Métricas:** Determinación algorítmica de la duración de las llamadas en base a los cambios de estado.
+* **Validación de Datos:** Flujo integrado para consultar y validar opciones, subopciones y categorías asociadas a la comunicación del cliente.
+
+## ⚙️ Instalación
+1. Clonar el repositorio.
+2. Abrir la solución `.sln` en Visual Studio.
+3. Compilar el proyecto para restaurar dependencias.
+4. Ejecutar la aplicación de Windows Forms para visualizar la interfaz del operador.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 🎬 CineLife - Sistema de Gestión de Cines
 
 ## 📝 Descripción
